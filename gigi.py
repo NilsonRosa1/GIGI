@@ -4,7 +4,7 @@ class Calculation():
     def __init__(self, ler):
         self.mensagem = ler
 
-    def fune(self):  
+    def fune(self): 
         x = self.mensagem
         i = 'V'
         j = 'F'
