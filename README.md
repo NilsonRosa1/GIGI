@@ -13,7 +13,7 @@ So the solution would have to be in the palm of your hand! Literally! The GIGI L
 ## Requirements
 - Telegram installed on the phone;
 - Add GIGI to your contacts.
-![QR Code](https://myoctocat.com/assets/images/base-octocat.svg)
+![QR Code](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/NilsonRosa1/GIGI/blob/main/qr_code_gigi.jpg)
 
 
 
