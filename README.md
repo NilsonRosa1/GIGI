@@ -13,6 +13,9 @@ So the solution would have to be in the palm of your hand! Literally! The GIGI L
 ## Requirements
 - Telegram installed on the phone;
 - Add GIGI to your contacts.
+![QR Code](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
 
 ## Stages
