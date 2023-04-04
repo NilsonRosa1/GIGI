@@ -7,8 +7,8 @@ As students of the Data Science course at FATEC Ourinhos, we realized that some 
 So the solution would have to be in the palm of your hand! Literally! The GIGI Logic assistant that runs in every smartphone.
 
 ## Tools
-- [Python](https://www.python.org/) : Linguagem de programação de sintaxe simples;
-- [Mongodb](https://www.mongodb.com/): Bando de dados não relacional para armazenamento de informações, está sendo utilizado o banco diretamente no site;
+- [Python](https://www.python.org/);
+- [Mongodb](https://www.mongodb.com/).
 
 ## Requirements
 - Telegram installed on the phone;
