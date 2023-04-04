@@ -19,3 +19,7 @@ So the solution would have to be in the palm of your hand! Literally! The GIGI L
 
 ## Stages
 ### First Stage
+
+## Second Stage
+
+## Third Stage
